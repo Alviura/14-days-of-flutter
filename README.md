@@ -23,7 +23,7 @@ Welcome to the **14 Days of Intense Flutter** challenge! This repository documen
 
 ## 📂 Folder Structure
 ```
-📂 14-days-flutter
+📂 14-days-of-flutter
 │── 📁 day_1_profile_screen
 │── 📁 day_2_navigation_app
 │── 📁 day_3_api_fetch
