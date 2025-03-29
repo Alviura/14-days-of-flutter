@@ -84,3 +84,17 @@ class CounterApp extends StatefulWidget {
 
     }
 }
+```
+
+## Advanced Layout Widgets
+### Stack 
+Allows you to place Widgets on top of each other, similar to absolute positioning in CSS
+
+### Flex(Row & Column customization)
+Allows you to control the behavior of Row and Column widget precisely
+
+### Wrap(Handling Overflow in Rows & Columns)
+The wrap widget automatically moves overflowing widgets to the next line instead of throwing an error
+
+### FractionallySizedBox (Percentage-based Sizing)
+The FractionallySizedBox widget allows you to size a widget as fraction of its parents 
